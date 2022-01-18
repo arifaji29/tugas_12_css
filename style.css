@@ -1,0 +1,71 @@
+
+.navbar {
+    background-color: black;
+    margin: 0 auto;
+    position: relative;
+    height: 25px;
+    column-count: 15;
+    column-gap: 10px;
+    padding: 10px;
+    list-style: none;
+}
+a {
+    text-decoration: none;
+    color: white;
+    font-size: 17px;
+}
+
+.slider {
+    background-color:lightblue;
+    padding: 20px;
+    position: relative;
+    margin: 0 auto;
+    
+}
+
+.slider-img {
+    width: 100%;
+    text-align: center;
+}
+
+.card {
+    background-color: lightblue;
+    padding: 20px;
+    position: relative;
+    margin: 0 auto;
+    
+
+
+}
+
+.image {
+    width:20% ;
+    float: left;
+    padding : 20px ;
+}
+
+.p-text {
+    text-align: justify;
+    column-count: 4;
+    column-rule: 1px solid black;
+}
+
+.footer {
+    background-color: black;
+    margin: 0 auto;
+    position: relative;
+    height: 35px;
+    padding-bottom: 5px;
+    text-align: center;
+    color: white;
+}
+
+
+
+
+
+
+
+
+
+
